@@ -1,0 +1,1 @@
+A minimal basis implementation of a HTTP client using sys/socket.h.

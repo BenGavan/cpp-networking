@@ -1,7 +1,7 @@
 run: 
 	#g++ -std=c++11 -o main main.cpp
-	g++ -std=c++11 *.cpp -o main
-	./main
+	g++ -std=c++11 *.cpp -o main.exe
+	./main.exe
 
 run-client: 
 	g++ -std=c++11 simple-client.cpp -o client

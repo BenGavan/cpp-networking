@@ -1,1 +1,1 @@
-Notes and a basic implentation of a HTTP-client writen in C++ using sys/socket.h.
+[Notes](https://github.com/BenGavan/cpp-networking/tree/main/basics) and a basic implentation of a [HTTP-client](https://github.com/BenGavan/cpp-networking/tree/main/http-client) writen in C++ using sys/socket.h.
