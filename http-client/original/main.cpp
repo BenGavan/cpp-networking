@@ -497,7 +497,8 @@ int main() {
     std::cout << "A simple HTTP Client" << std::endl;
 
     std::string method = "GET";
-    std::string url = "https://www.rapidtables.com/convert/number/hex-to-decimal.html";
+    // std::string url = "https://www.rapidtables.com/convert/number/hex-to-decimal.html";
+    std::string url = "http://localhost:8000/";
     Response resp = makeRequest(method, url);
     std::cout << "*****************\n" << resp.toString() << "\n*****************\n" << std::endl;
 
